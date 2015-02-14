@@ -7,11 +7,11 @@ This short program takes a single filename as a parameter. In addition, if the '
 print the number of lines in the file to the console.
 
 
-# Running the program
+##### Running the program
 
 $ java -jar word-count-0.0.1-SNAPSHOT.jar sample.txt
-[will print number of words]
+..[will print number of words]
 
 $ java -jar word-count-0.0.1-SNAPSHOT.jar -l sample.txt
-[will print numbe of lines]
+..[will print numbe of lines]
 
