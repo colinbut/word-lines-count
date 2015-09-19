@@ -5,11 +5,16 @@ A program that counts number of words in a file and prints the count out to cons
 
 This short program takes a single filename as a parameter. In addition, if the '-l' parameter is provided, the program will print the number of lines in the file to the console.
 
+#### Download
+
+Clone project:
+
+`git clone https://github.com/colinbut/word-lines-count.git`
 
 ##### Running the program
 
-java -jar word-count-0.0.1-SNAPSHOT.jar sample.txt 
+`java -jar word-count-0.0.1-SNAPSHOT.jar sample.txt`
 
-java -jar word-count-0.0.1-SNAPSHOT.jar -l sample.txt
+`java -jar word-count-0.0.1-SNAPSHOT.jar -l sample.txt`
 
 
